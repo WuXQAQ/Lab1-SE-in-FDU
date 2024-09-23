@@ -20,7 +20,7 @@
 - Http Method: POST
 - 功能描述：在Request Body中以json格式发送用户的具体信息，以向系统中添加用户
 
-![image](https://github.com/WuXQAQ/Lab1-SE-in-FDU/tree/master/Resource/001.jpg)
+![Image text](https://github.com/WuXQAQ/Lab1-SE-in-FDU/tree/master/Resource/001.jpg)
 
 #### 查看用户信息
 
